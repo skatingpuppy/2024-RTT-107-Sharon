@@ -1,0 +1,172 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "email": "john.doe@example.com",
+        "is_employee": true,
+        "hobbies": [
+            "reading",
+            "playing soccer",
+            "traveling"
+        ],
+        "address": {
+            "street": "123 Main Street",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10001"
+        }
+    },
+    {
+        "name": "Alice Smith",
+        "age": 28,
+        "email": "alice.smith@example.com",
+        "is_employee": false,
+        "hobbies": [
+            "painting",
+            "gardening",
+            "hiking"
+        ],
+        "address": {
+            "street": "456 Elm Avenue",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90001"
+        }
+    },
+    {
+        "name": "Bob Johnson",
+        "age": 35,
+        "email": "bob.johnson@example.com",
+        "is_employee": true,
+        "hobbies": [
+            "cooking",
+            "playing guitar",
+            "photography"
+        ],
+        "address": {
+            "street": "789 Oak Street",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60601"
+        }
+    },
+    {
+        "name": "Emily Davis",
+        "age": 26,
+        "email": "emily.davis@example.com",
+        "is_employee": false,
+        "hobbies": [
+            "dancing",
+            "yoga",
+            "reading"
+        ],
+        "address": {
+            "street": "101 Maple Lane",
+            "city": "San Francisco",
+            "state": "CA",
+            "zip": "94101"
+        }
+    },
+    {
+        "name": "Michael Brown",
+        "age": 31,
+        "email": "michael.brown@example.com",
+        "is_employee": true,
+        "hobbies": [
+            "playing basketball",
+            "traveling",
+            "cooking"
+        ],
+        "address": {
+            "street": "222 Cedar Road",
+            "city": "Houston",
+            "state": "TX",
+            "zip": "77001"
+        }
+    },
+    {
+        "name": "Sophia Wilson",
+        "age": 29,
+        "email": "sophia.wilson@example.com",
+        "is_employee": false,
+        "hobbies": [
+            "singing",
+            "hiking",
+            "painting"
+        ],
+        "address": {
+            "street": "333 Pine Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33101"
+        }
+    },
+    {
+        "name": "David Martinez",
+        "age": 27,
+        "email": "david.martinez@example.com",
+        "is_employee": true,
+        "hobbies": [
+            "playing tennis",
+            "photography",
+            "cooking"
+        ],
+        "address": {
+            "street": "444 Birch Avenue",
+            "city": "Dallas",
+            "state": "TX",
+            "zip": "75201"
+        }
+    },
+    {
+        "name": "Olivia Taylor",
+        "age": 34,
+        "email": "olivia.taylor@example.com",
+        "is_employee": false,
+        "hobbies": [
+            "gardening",
+            "yoga",
+            "reading"
+        ],
+        "address": {
+            "street": "555 Oak Lane",
+            "city": "Seattle",
+            "state": "WA",
+            "zip": "98101"
+        }
+    },
+    {
+        "name": "James Rodriguez",
+        "age": 32,
+        "email": "james.rodriguez@example.com",
+        "is_employee": true,
+        "hobbies": [
+            "playing soccer",
+            "traveling",
+            "cooking"
+        ],
+        "address": {
+            "street": "666 Elm Road",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02101"
+        }
+    },
+    {
+        "name": "Ava Smith",
+        "age": 30,
+        "email": "ava.smith@example.com",
+        "is_employee": false,
+        "hobbies": [
+            "reading",
+            "painting",
+            "hiking"
+        ],
+        "address": {
+            "street": "777 Maple Avenue",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zip": "85001"
+        }
+    }
+]
